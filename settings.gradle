@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "643_PizzaApp_with_ListMenu"
